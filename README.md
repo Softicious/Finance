@@ -1,18 +1,18 @@
-# Finance Web App
+# Financial HQ Web App
 
-[![Build](https://github.com/MyCryptoHQ/MyCrypto/workflows/GitHub%20CI/badge.svg?branch=master)](https://github.com/MyCryptoHQ/MyCrypto/actions)
-[![codecov](https://codecov.io/gh/MyCryptoHQ/MyCrypto/branch/master/graph/badge.svg)](https://codecov.io/gh/MyCryptoHQ/MyCrypto)
+[![Build](https://github.com/Financial HQ/MyCrypto/workflows/GitHub%20CI/badge.svg?branch=master)](https://github.com/Financial HQ/MyCrypto/actions)
+[![codecov](https://codecov.io/gh/Financial HQ/MyCrypto/branch/master/graph/badge.svg)](https://codecov.io/gh/Financial HQ/MyCrypto)
 
 This repo stores the MyCrypto codebase. The code is served at [app.mycrypto.com](https://app.mycrypto.com)
 
-#### Documentation can be found in [our wiki](https://github.com/MyCryptoHQ/MyCrypto/wiki)
+#### Documentation can be found in [our wiki](https://github.com/Financial HQ/MyCrypto/wiki)
 
-- [Contributor Guidelines](https://github.com/MyCryptoHQ/MyCrypto/wiki/Contributor-Guidelines) A must-read if you'd like to contribute to MyCrypto
-- [Getting your token added to MyCrypto](https://github.com/MyCryptoHQ/MyCrypto/wiki/Contributing-%E2%80%90-Adding-Tokens)
-- [Adding your Network or Node](https://github.com/MyCryptoHQ/MyCrypto/wiki/Contributing-%E2%80%90-Network-or-Node)
-- [Adding your Web3 Wallet & Logo](https://github.com/MyCryptoHQ/MyCrypto/wiki/Contributing-%E2%80%90-Web3-Wallet)
-- [MyCryptoBuilds](https://github.com/MyCryptoHQ/MyCrypto/wiki/MyCryptoBuilds) - access a build by commithash, PR number, or branch name without building it yourself!
-- [Enabling or disabling experimental features](https://github.com/MyCryptoHQ/MyCrypto/wiki/Feature-flags)
+- [Contributor Guidelines](https://github.com/Financial HQ/MyCrypto/wiki/Contributor-Guidelines) A must-read if you'd like to contribute to MyCrypto
+- [Getting your token added to MyCrypto](https://github.com/Financial HQ/MyCrypto/wiki/Contributing-%E2%80%90-Adding-Tokens)
+- [Adding your Network or Node](https://github.com/Financial HQ/MyCrypto/wiki/Contributing-%E2%80%90-Network-or-Node)
+- [Adding your Web3 Wallet & Logo](https://github.com/Financial HQ/MyCrypto/wiki/Contributing-%E2%80%90-Web3-Wallet)
+- [MyCryptoBuilds](https://github.com/Financial HQ/MyCrypto/wiki/MyCryptoBuilds) - access a build by commithash, PR number, or branch name without building it yourself!
+- [Enabling or disabling experimental features](https://github.com/Financial HQ/MyCrypto/wiki/Feature-flags)
 
 ## Development / Build Requirements
 
@@ -99,7 +99,7 @@ We use product analytics to help us understand how to improve our features.
 
 The collection of usage data requires the use of unique identifiers which are stored in the browsers local storage. The id is random and can be removed or reset in the Settings panel. This ensures that our product team can identify places to improve the product, while at the same time protecting the users anonymity.
 
-We strive to provide access to the Ethereum blockchain in the most secure way possible, we refuse any dynamic script injections and only rely on HTTPS calls to the API. The calls are formatted using the excellant [@blockstock/stats](https://github.com/MyCryptoHQ/stats) library.
+We strive to provide access to the Ethereum blockchain in the most secure way possible, we refuse any dynamic script injections and only rely on HTTPS calls to the API. The calls are formatted using the excellant [@blockstock/stats](https://github.com/Financial HQ/stats) library.
 
 Finally, since User privacy is part of our core values, we also take special care to ensure that the data we send to thrid-party servers is purged from any information which may be de-anonymised such as:
 
