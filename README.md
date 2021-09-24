@@ -1,4 +1,4 @@
-# Financial HQ Web App
+# Financial HQ
 
 ## Development / Build Requirements
 
