@@ -1,19 +1,5 @@
 # Financial HQ Web App
 
-[![Build](https://github.com/Financial HQ/MyCrypto/workflows/GitHub%20CI/badge.svg?branch=master)](https://github.com/Financial HQ/MyCrypto/actions)
-[![codecov](https://codecov.io/gh/Financial HQ/MyCrypto/branch/master/graph/badge.svg)](https://codecov.io/gh/Financial HQ/MyCrypto)
-
-This repo stores the MyCrypto codebase. The code is served at [app.mycrypto.com](https://app.mycrypto.com)
-
-#### Documentation can be found in [our wiki](https://github.com/Financial HQ/MyCrypto/wiki)
-
-- [Contributor Guidelines](https://github.com/Financial HQ/MyCrypto/wiki/Contributor-Guidelines) A must-read if you'd like to contribute to MyCrypto
-- [Getting your token added to MyCrypto](https://github.com/Financial HQ/MyCrypto/wiki/Contributing-%E2%80%90-Adding-Tokens)
-- [Adding your Network or Node](https://github.com/Financial HQ/MyCrypto/wiki/Contributing-%E2%80%90-Network-or-Node)
-- [Adding your Web3 Wallet & Logo](https://github.com/Financial HQ/MyCrypto/wiki/Contributing-%E2%80%90-Web3-Wallet)
-- [MyCryptoBuilds](https://github.com/Financial HQ/MyCrypto/wiki/MyCryptoBuilds) - access a build by commithash, PR number, or branch name without building it yourself!
-- [Enabling or disabling experimental features](https://github.com/Financial HQ/MyCrypto/wiki/Feature-flags)
-
 ## Development / Build Requirements
 
 - Node 12.14.1\*
